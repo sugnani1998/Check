@@ -1,0 +1,50 @@
+.parent{
+  display:flex;
+  width:100%;
+  border:2px solid lime;
+}
+.left{
+  border:2px solid teal;
+  width:30%;
+  padding:2%;
+  margin:2%;
+}
+.right{
+  border: 2px solid maroon;
+  width:70%;
+  padding:2%;
+  margin:2%;
+}
+img{
+  border-radius:5%;
+  border:1px solid red;
+  width:50%;
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+}
+hr{
+  background-color: red;
+}
+#co{
+  color: blue;
+}
+#para,in{
+  font-size:20px'
+  color:blue;
+}
+li{
+  color: blueviolet;
+  font-size:20px;
+}
+#in{
+  color:coral;
+}
+#ssc{
+  color: magenta;
+font-size: 20px;
+}
+#ach{
+  color:maroon;
+  font-size: 20px;
+}
